@@ -16,6 +16,7 @@
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 </div>
+<br>
 <h4><img src="https://user-images.githubusercontent.com/64584574/183285455-92a72bc0-fd0f-4374-870e-8690747ba8e7.png" alt="mintchocoicecream" /> 
 Homepage
 <img src="https://user-images.githubusercontent.com/64584574/183285455-92a72bc0-fd0f-4374-870e-8690747ba8e7.png" alt="mintchocoicecream" />
@@ -26,7 +27,12 @@ mintchocoicecream.github.io
 </div>
 
 <br>
-
+<div align="center">
+<img src="https://user-images.githubusercontent.com/64584574/183294356-389e5a32-980e-4669-9af9-6009b4eb1454.gif"/>
+</div>
+<br>
+<br>
+<br>
 <div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mintchocoicecream&exclude_repo=2020KBO&theme=vue&layout=compact)
@@ -45,7 +51,7 @@ mintchocoicecream.github.io
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></p>
 
 </div>
-
+<br>
 
 
 
